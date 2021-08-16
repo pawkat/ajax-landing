@@ -1,0 +1,36 @@
+{
+  "name": "ajax-landing",
+  "version": "1.0.0",
+  "description": "ajax-landing",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawkat/ajax-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawkat/ajax-landing/issues"
+  },
+  "homepage": "https://github.com/pawkat/ajax-landing#readme",
+  "devDependencies": {
+    "css-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.2",
+    "jquery": "^3.6.0",
+    "sass": "^1.37.5",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.2.1",
+    "swiper": "^6.8.2",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "browserslist": [
+    "last 10 version"
+  ]
+}
